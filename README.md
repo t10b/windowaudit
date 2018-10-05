@@ -1,7 +1,7 @@
 # windowaudit
 windows comparison audit
 Purpose of Git:
-  Comparison against a previous set of data or point in time set of data for ausit purposes.
+  Comparison against a previous set of data or point in time set of data for audit purposes.
   Items compared:
     Users
     Groups
